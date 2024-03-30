@@ -17,6 +17,16 @@
 
 6. Open the Vagrantfile in a text editor(im using VScode).
 
-    Customize the configuration according to your requirements. For example, I used an eurolinux-centos base box. Vagrant boxes can be found [here](https://app.vagrantup.com/boxes/search):
+    Customize the configuration according to your requirements. 
+    
+    For example, I used an eurolinux-centos base box. Vagrant boxes can be found [here](https://app.vagrantup.com/boxes/search):
 
     ![vagrant box](image.png)
+
+    Create a private and public bridged network to allow access to the machine by simple removing the "#" infront of configurations in the image.
+
+    ![network settings](image-1.png)
+
+    Customize the memory and cpu size using this example 
+
+    ![memoryandcpu](image-2.png)
