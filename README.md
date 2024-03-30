@@ -17,6 +17,6 @@
 
 6. Open the Vagrantfile in a text editor(im using VScode).
 
-    Customize the configuration according to your requirements. For example, you can specify the base box, network settings, and provisioning scripts.
+    Customize the configuration according to your requirements. For example, I used an eurolinux-centos base box. Vagrant boxes can be found [here] (https://app.vagrantup.com/boxes/search):
 
-    ![vagrantbox can be found here : https://app.vagrantup.com/boxes/search](image.png)
+    ![vagrant box](image.png)
