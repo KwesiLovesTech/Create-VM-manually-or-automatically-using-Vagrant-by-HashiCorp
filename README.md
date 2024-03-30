@@ -18,3 +18,5 @@
 6. Open the Vagrantfile in a text editor(im using VScode).
 
     Customize the configuration according to your requirements. For example, you can specify the base box, network settings, and provisioning scripts.
+
+    ![vagrantbox can be found here : https://app.vagrantup.com/boxes/search](image.png)
