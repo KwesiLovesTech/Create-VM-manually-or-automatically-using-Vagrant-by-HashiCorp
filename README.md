@@ -50,4 +50,7 @@
     "vagrant suspend" to suspend it,
     and "vagrant destroy" to delete it.
 
-    Use "vagrant reload" to apply any changes made to the Vagrantfile.
+10. Use "vagrant reload" to apply any changes made to the 
+    Vagrantfile.
+
+    More vagrant commands can be found [here](https://developer.hashicorp.com/vagrant/docs/cli)
